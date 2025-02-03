@@ -171,9 +171,10 @@ span{
 }
 
 .content-img{
-    width: 50%;
+    width: 28%;
     display: grid;
     grid-template-columns: repeat(2,1fr);
+    margin-left: 100px;
 }
 
 .content-img img{
