@@ -174,7 +174,10 @@ span{
     width: 28%;
     display: grid;
     grid-template-columns: repeat(2,1fr);
+<<<<<<< HEAD
     align-items: center;
+=======
+>>>>>>> 4723779795ae46fb5faf932626d82c41b257495d
     margin-left: 100px;
 }
 
