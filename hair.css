@@ -70,7 +70,8 @@ header ul{
 }
 
 .content1 h3{
-    font-size: 18px;
+    font-size: 24px;
+    font-weight: bold;
     color: greenyellow;
 }
 
@@ -81,7 +82,7 @@ header ul{
 }
 
 .head-content h2{
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
     padding-top: 20px;
 }
@@ -90,11 +91,12 @@ header ul{
     background-color: greenyellow;
     color: white;
     cursor: pointer;
+    font-size: 18px;
     font-weight: bold;
     border: none;
     padding: 22px 30px;
     margin-top: 30px;
-    margin-left: 200px;
+    margin-left: 150px;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -166,7 +168,7 @@ span{
 }
 
 .content h1{
-    font-size: 32px;
+    font-size: 40px;
     color: black;
     font-weight: bold;
 }
@@ -190,6 +192,7 @@ table tr td{
     color: white;
     text-align: center;
     font-weight: bold;
+    font-size: 18px;
 }
 
 .content-imgs{
@@ -256,7 +259,7 @@ table tr td{
 }
 
 .content2 h1{
-    font-size: 32px;
+    font-size: 40px;
     font-weight: bold;
     color: black;
 }

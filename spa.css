@@ -70,7 +70,7 @@ header ul{
 }
 
 .content1 h3{
-    font-size: 18px;
+    font-size: 24px;
     color: greenyellow;
 }
 
@@ -81,7 +81,7 @@ header ul{
 }
 
 .head-content h2{
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
     padding-top: 20px;
 }
@@ -90,11 +90,12 @@ header ul{
     background-color: greenyellow;
     color: white;
     cursor: pointer;
+    font-size: 18px;
     font-weight: bold;
     border: none;
     padding: 22px 30px;
     margin-top: 30px;
-    margin-left: 200px;
+    margin-left: 150px;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -184,6 +185,7 @@ table tr td{
     background-color: greenyellow;
     color: white;
     text-align: center;
+    font-size: 18px;
     font-weight: bold;
 }
 
